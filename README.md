@@ -22,7 +22,7 @@
 - **Frontend & Mobile:** React.js, React Native, HTML5, CSS3, Ionic  
 - **IA & Automação:** OpenAI, Gemini, Selenium  
 - **Bases de Dados:** PostgreSQL, MySQL, SQLite  
-- **Cloud & DevOps:** AWS (S3, EC2, Lambda), Docker, GitHub Actions  
+- **Cloud & DevOps:** AWS (S3, EC2), Docker, GitHub Actions  
 - **Outros:** Git, Linux, Microserviços  
 
 ### 💻 Linguagens & Backend 
